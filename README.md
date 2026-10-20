@@ -177,11 +177,10 @@ cd docker; docker-compose down --rmi all
 
 1. Send a Soundcloud link to the bot
 2. Bot downloads the audio with original metadata
-3. MP3 file is sent with inline buttons:
+3. MP3 file is sent with:
    - 🖼️ button opens the artwork
    - Change Metadata button lets you edit title and artist
-4. For metadata editing, send in format: `title|artist`
-5. After metadata change, only the artwork button remains
+
 
 ## Project Structure
 
