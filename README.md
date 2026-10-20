@@ -4,11 +4,7 @@ Telegram bot for downloading audio from SoundCloud with original metadata and qu
 
 ## Configuration
 
-Create a `.env` file in the project root:
-
-```bash
-cp .env.example .env
-```
+Create a `.env` file in the project root.
 
 Add your Telegram bot token to `.env`:
 
