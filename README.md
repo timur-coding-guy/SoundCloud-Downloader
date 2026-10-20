@@ -1,6 +1,7 @@
 # SoundCloud Downloader
 
 Telegram bot for downloading audio from SoundCloud with original metadata and quality.
+No logs and saving data at all, so all userdata is safe. 
 
 ## Configuration
 
